@@ -1,0 +1,7 @@
+﻿  student.cpp
+D:\codespace\c\学生成绩管理系统\student.cpp(167,6): warning C4101: “i”: 未引用的局部变量
+D:\codespace\c\学生成绩管理系统\student.cpp(194,6): warning C4101: “i”: 未引用的局部变量
+D:\codespace\c\学生成绩管理系统\student.cpp(239,6): warning C4101: “i”: 未引用的局部变量
+D:\codespace\c\学生成绩管理系统\student.cpp(299,6): warning C4101: “i”: 未引用的局部变量
+D:\codespace\c\学生成绩管理系统\student.cpp(329,6): warning C4101: “i”: 未引用的局部变量
+  学生成绩管理系统.vcxproj -> D:\codespace\c\学生成绩管理系统\x64\Debug\学生成绩管理系统.exe
